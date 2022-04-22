@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\korch\source\repos\MainOcean\x64\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="CtorCoord.CoordinateCtor1" Duration="1" />
+    <TestDuration Test="CoorGetX.GetX1" Duration="1" />
+    <TestDuration Test="CoorGetX.GetX2" Duration="1" />
+    <TestDuration Test="CoorGetY.GetY1" Duration="1" />
+    <TestDuration Test="CoorGetY.GetY2" Duration="1" />
+    <TestDuration Test="CoordSetX.SetX" Duration="1" />
+    <TestDuration Test="CoordSetY.SetY" Duration="1" />
+    <TestDuration Test="CoordCtorCopy.CtorCopy" Duration="1" />
+    <TestDuration Test="CoordCtorSet.CtorSet" Duration="1" />
+    <TestDuration Test="CoordOperatorAs.OpAs" Duration="1" />
+    <TestDuration Test="CoordOperatorEqual.OpEqual" Duration="1" />
+    <TestDuration Test="CoordOperatorNotEqual.OpNotEqual" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
